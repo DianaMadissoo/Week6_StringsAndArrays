@@ -1,0 +1,15 @@
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.exe
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.deps.json
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.runtimeconfig.json
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.runtimeconfig.dev.json
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.dll
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\bin\Debug\net5.0\ref\StringReplace.dll
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.AssemblyInfoInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.AssemblyInfo.cs
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.dll
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\obj\Debug\net5.0\ref\StringReplace.dll
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.genruntimeconfig.cache
